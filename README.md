@@ -1,3 +1,6 @@
+# Project_SKAN-master
+
+Дипломный проект курса фронтэнд разработчкиа Скиллфактори. 
 На выполнение проекта у вас есть 4 недели. Максимальная оценка за проект — 40 баллов.
 
 Далее — описание проектной задачи!
@@ -217,15 +220,8 @@ KISS (Keep It Short and Simple — не усложняй),
 DRY (Don’t Repeat Yourself — не повторяйся).
 Вы не ограничены в использовании любых инструментов и дополнительных библиотек (например, для реализации карусели). Но старайтесь следить за тем, чтобы их применение было оправдано и не усложняло код без необходимости.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-# movies-explorer-frontend
-
-Фронтенд дипломной работы на курсе веб-разработки Яндекс Практикум.
-
-## Технологии
+# Технологии
 ![React](https://img.shields.io/badge/-React-61daf8?logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-e34f26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572b6?logo=css3&logoColor=white)
@@ -234,7 +230,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 ![API](https://img.shields.io/badge/-api-yellow)
 ![BEM](https://img.shields.io/badge/-BEM-yellowgreen)
 
-## Запуск проекта
+# Запуск проекта
 
 Для запуска проекта необходимо выполнить следующие действия:
 
@@ -251,7 +247,7 @@ npm install
 npm start
 ```
 
-## Ссылки проекта
+# Ссылки проекта
 
 Макет проекта можно посмотреть [здесь](https://www.figma.com/file/u3MOjzYnTnirz712GrLbFv/%D0%9C%D0%B0%D0%BA%D0%B5%D1%82-%D0%A1%D0%9A%D0%90%D0%9D?type=design&node-id=0-1&mode=design).
 
