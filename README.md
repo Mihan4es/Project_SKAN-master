@@ -1,7 +1,5 @@
 На выполнение проекта у вас есть 4 недели. Максимальная оценка за проект — 40 баллов.
 
-Напишите координатору курса, что вы приступили к проекту «Сервис СКАН», и добавляйтесь в канал в Slack #финальный_проект_скан.
-
 Далее — описание проектной задачи!
 
 ПОСТАНОВКА ЗАДАЧИ
@@ -223,32 +221,37 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+# movies-explorer-frontend
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Фронтенд дипломной работы на курсе веб-разработки Яндекс Практикум.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Технологии
+![React](https://img.shields.io/badge/-React-61daf8?logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-e34f26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572b6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?logo=javaScript&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-99d6f8?logo=vite&logoColor=black)
+![API](https://img.shields.io/badge/-api-yellow)
+![BEM](https://img.shields.io/badge/-BEM-yellowgreen)
 
-### Code Splitting
+## Запуск проекта
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Для запуска проекта необходимо выполнить следующие действия:
 
-### Analyzing the Bundle Size
+1. Склонировать проект на ваш компьютер с [Github](https://github.com/Mihan4es/Project_SKAN-master) с помощью команды:
+```
+git clone git@github.com:Mihan4es/Project_SKAN-master.git
+```
+2. Установить зависимости:
+```
+npm install
+```
+3. Запустить проект:
+```
+npm start
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Ссылки проекта
 
-### Making a Progressive Web App
+Макет проекта можно посмотреть [здесь](https://www.figma.com/file/u3MOjzYnTnirz712GrLbFv/%D0%9C%D0%B0%D0%BA%D0%B5%D1%82-%D0%A1%D0%9A%D0%90%D0%9D?type=design&node-id=0-1&mode=design).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
