@@ -221,9 +221,6 @@ CSS-модули,
 KISS (Keep It Short and Simple — не усложняй),
 DRY (Don’t Repeat Yourself — не повторяйся).
 Вы не ограничены в использовании любых инструментов и дополнительных библиотек (например, для реализации карусели). Но старайтесь следить за тем, чтобы их применение было оправдано и не усложняло код без необходимости.
-
-
-
 # Технологии
 ![React](https://img.shields.io/badge/-React-61daf8?logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-e34f26?logo=html5&logoColor=white)
@@ -232,9 +229,7 @@ DRY (Don’t Repeat Yourself — не повторяйся).
 ![Vite](https://img.shields.io/badge/-Vite-99d6f8?logo=vite&logoColor=black)
 ![API](https://img.shields.io/badge/-api-yellow)
 ![BEM](https://img.shields.io/badge/-BEM-yellowgreen)
-
 # Запуск проекта
-
 Для запуска проекта необходимо выполнить следующие действия:
 
 1. Склонировать проект на ваш компьютер с [Github](https://github.com/Mihan4es/Project_SKAN-master) с помощью команды:
@@ -249,8 +244,5 @@ npm install
 ```
 npm start
 ```
-
 # Ссылки проекта
-
 Макет проекта можно посмотреть [здесь](https://www.figma.com/file/u3MOjzYnTnirz712GrLbFv/%D0%9C%D0%B0%D0%BA%D0%B5%D1%82-%D0%A1%D0%9A%D0%90%D0%9D?type=design&node-id=0-1&mode=design).
-
