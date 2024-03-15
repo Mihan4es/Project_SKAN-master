@@ -221,7 +221,9 @@ CSS-модули,
 KISS (Keep It Short and Simple — не усложняй),
 DRY (Don’t Repeat Yourself — не повторяйся).
 Вы не ограничены в использовании любых инструментов и дополнительных библиотек (например, для реализации карусели). Но старайтесь следить за тем, чтобы их применение было оправдано и не усложняло код без необходимости.
+
 # Технологии
+
 ![React](https://img.shields.io/badge/-React-61daf8?logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-e34f26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572b6?logo=css3&logoColor=white)
@@ -229,6 +231,7 @@ DRY (Don’t Repeat Yourself — не повторяйся).
 ![Vite](https://img.shields.io/badge/-Vite-99d6f8?logo=vite&logoColor=black)
 ![API](https://img.shields.io/badge/-api-yellow)
 ![BEM](https://img.shields.io/badge/-BEM-yellowgreen)
+
 # Запуск проекта
 Для запуска проекта необходимо выполнить следующие действия:
 
